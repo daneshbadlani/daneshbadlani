@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on understanding AI, cloud and blockchain technology.
 - 🌱 I’m currently learning javascript and tinkering with LLM models.
 - 👯 I’m looking to collaborate on AI and web3 projects.
-- 💬 Ask me about engineering, product management, startups, big tech and VC.
+- 💬 Ask me about product management, startups, big tech and VC.
 - 📫 How to reach me: @daneshbadlani on Twitter 
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: Love travelling
